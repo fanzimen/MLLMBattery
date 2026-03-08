@@ -1,0 +1,21 @@
+file,idx,soh,conversation,num_tokens
+XJTU_R3_battery-1.csv,0,0.9495986036823147,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.366. Estimate SOH.
+### Assistant: SOH=0.950...",54
+XJTU_R3_battery-1.csv,161,0.9803312650986225,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.294. Estimate SOH.
+### Assistant: SOH=0.980...",54
+XJTU_R3_battery-1.csv,322,0.941563143312987,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.513. Estimate SOH.
+### Assistant: SOH=0.942...",54
+XJTU_R3_battery-1.csv,483,0.9174000728674024,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.632. Estimate SOH.
+### Assistant: SOH=0.917...",54
+XJTU_R3_battery-1.csv,645,0.8011946165192314,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.749. Estimate SOH.
+### Assistant: SOH=0.801...",54
+XJTU_R3_battery-2.csv,0,0.9521625123556096,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.410. Estimate SOH.
+### Assistant: SOH=0.952...",54
+XJTU_R3_battery-2.csv,133,0.985878564477898,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.297. Estimate SOH.
+### Assistant: SOH=0.986...",54
+XJTU_R3_battery-2.csv,266,0.9489483650971194,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.565. Estimate SOH.
+### Assistant: SOH=0.949...",54
+XJTU_R3_battery-2.csv,399,0.9335030897621366,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.574. Estimate SOH.
+### Assistant: SOH=0.934...",54
+XJTU_R3_battery-2.csv,533,0.805264765213676,"### Human: Battery: Li-ion battery. Current slope: -0.001 A/step, Current entropy: 6.766. Estimate SOH.
+### Assistant: SOH=0.805...",54

@@ -1,0 +1,9 @@
+0,1
+"{'from': 'human', 'value': 'This NCM at 30°C shows voltage range [1.404, 1.406]V with trend -0.0000, capacity mean=1.000Ah. What is the State of Health?'}","{'from': 'gpt', 'value': 'The current SOH is 0.986.'}"
+"{'from': 'human', 'value': 'Battery type: NCM at 30°C. Voltage characteristics: mean=1.408V, std=0.002V. Capacity: mean=1.000Ah, trend=+0.0000. Estimate SOH.'}","{'from': 'gpt', 'value': 'The current SOH is 0.925.'}"
+"{'from': 'human', 'value': 'Given this NCM at 30°C battery with average voltage 1.410V (trend: +0.0000) and capacity 1.000Ah (trend: +0.0000), what is the current SOH?'}","{'from': 'gpt', 'value': 'The current SOH is 0.942.'}"
+"{'from': 'human', 'value': 'Context: NCM at 30°C, voltage=1.408V (±0.002), capacity=1.000Ah (std=0.100), degradation=-0.000. Estimate current SOH.'}","{'from': 'gpt', 'value': 'The current SOH is 0.939.'}"
+"{'from': 'human', 'value': 'Battery type: NCM at 30°C. Voltage characteristics: mean=1.406V, std=0.001V. Capacity: mean=1.000Ah, trend=+0.0000. Estimate SOH.'}","{'from': 'gpt', 'value': 'The current SOH is 0.978.'}"
+"{'from': 'human', 'value': 'Given this NCM at 30°C battery with average voltage 1.406V (trend: -0.0000) and capacity 1.000Ah (trend: +0.0000), what is the current SOH?'}","{'from': 'gpt', 'value': 'The current SOH is 0.987.'}"
+"{'from': 'human', 'value': 'This NCM at 30°C shows voltage range [1.407, 1.414]V with trend -0.0001, capacity mean=1.000Ah. What is the State of Health?'}","{'from': 'gpt', 'value': 'The current SOH is 0.986.'}"
+"{'from': 'human', 'value': 'Context: NCM at 30°C, voltage=1.406V (±0.001), capacity=1.000Ah (std=0.100), degradation=-0.000. Estimate current SOH.'}","{'from': 'gpt', 'value': 'The current SOH is 0.984.'}"

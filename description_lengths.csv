@@ -1,0 +1,302 @@
+file,text,num_chars,num_tokens
+MIT_2018-04-12_battery-9.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.971%. CVQ=0.159...",145,104
+XJTU_3C_battery-6.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.952%. CVQ=0.391, CVt=234.600s, Islope=-9...",120,89
+MIT_2017-06-30_battery-19.csv,"LFP/Graphite at 30°C. CC-CV 4.4C to 55%, 6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.968%. CVQ=0.131, ...",143,102
+TJU_NCA_CY25-05_1-#7.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.928%. CVQ=0.656, CVt=1348.992s, Isl...",126,95
+MIT_2017-06-30_battery-41.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 5%, 4.75C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.981%. CVQ=0.143...",145,104
+XJTU_2C_battery-2.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.954%. CVQ=0.349, CVt=314.040s, Islope=-9...",120,89
+TJU_NCM_CY45-05_1-#16.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.923%. CVQ=0.607, CVt=1247.714s, Islo...",125,94
+TJU_NCA_CY25-05_1-#6.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.928%. CVQ=0.665, CVt=1365.736s, Isl...",126,95
+TJU_NCA_CY45-05_1-#3.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.950%. CVQ=0.611, CVt=1254.874s, Isl...",126,95
+MIT_2017-05-12_battery-33.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 50%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.981%. CVQ=0.15...",146,105
+TJU_NCM_CY45-05_1-#7.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.940%. CVQ=0.612, CVt=1259.178s, Islo...",125,94
+TJU_NCA_CY25-05_1-#3.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.925%. CVQ=0.646, CVt=1329.322s, Isl...",126,95
+TJU_NCA_CY25-1_1-#4.csv,"NCA at 25°C. CC-CV 1.0C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.879%. CVQ=0.812, CVt=833.868s, Islo...",125,94
+TJU_NCA_CY25-05_1-#14.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.932%. CVQ=0.664, CVt=1367.452s, Isl...",126,95
+MIT_2017-05-12_battery-44.csv,"LFP/Graphite at 30°C. CC-CV 12.8C to 25%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.14...",146,105
+MIT_2017-05-12_battery-9.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 80%, 5.4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.994%. CVQ=0.171...",145,104
+TJU_NCA_CY25-05_1-#19.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.928%. CVQ=0.661, CVt=1359.798s, Isl...",126,95
+MIT_2017-05-12_battery-21.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 60%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.978%. CVQ=0.151...",145,104
+MIT_2018-04-12_battery-37.csv,"LFP/Graphite at 30°C. CC-CV 5.9C to 15%, 4.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.962%. CVQ=0.150...",145,104
+XJTU_RW_battery-8.csv,"NCM at 30°C. 0.5C CC-CV to 4.2V, then 3C CC-CV to 4.2V Disch random current-time discharge patterns ...",173,103
+MIT_2017-05-12_battery-13.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 60%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.983%. CVQ=0.157, ...",143,102
+MIT_2017-06-30_battery-30.csv,"LFP/Graphite at 30°C. CC-CV 30.4C to 4%, 4.85C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.976%. CVQ=0.13...",146,105
+MIT_2017-05-12_battery-32.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 40%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.997%. CVQ=0.17...",146,105
+MIT_2018-04-12_battery-31.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.975%. CVQ=0.165...",145,104
+MIT_2018-04-12_battery-38.csv,"LFP/Graphite at 30°C. CC-CV 5.9C to 60%, 3.1C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.953%. CVQ=0.139...",145,104
+TJU_NCM_CY25-05_1-#8.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.902%. CVQ=0.603, CVt=1242.774s, Islo...",125,94
+TJU_NCM_CY45-05_1-#9.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.940%. CVQ=0.615, CVt=1265.408s, Islo...",125,94
+XJTU_R3_battery-3.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 3.0V Cyc=1, SOH=0.957%. CVQ=0.347, CVt=311.460s, Islo...",125,94
+MIT_2018-04-12_battery-29.csv,"LFP/Graphite at 30°C. CC-CV 3.7C to 31%, 5.9C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.957%. CVQ=0.145...",145,104
+TJU_NCM_CY35-05_1-#3.csv,"NCM at 35°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.923%. CVQ=0.600, CVt=1233.948s, Islo...",125,94
+TJU_NCM_CY45-05_1-#13.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.945%. CVQ=0.620, CVt=1275.162s, Islo...",125,94
+MIT_2017-06-30_battery-24.csv,"LFP/Graphite at 30°C. CC-CV 4.9C to 27%, 4.75C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.979%. CVQ=0.14...",146,105
+MIT_2017-06-30_battery-45.csv,"LFP/Graphite at 30°C. CC-CV 30.6C to 40%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.975%. CVQ=0.139,...",144,103
+MIT_2018-04-12_battery-21.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 36%, 4.3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.969%. CVQ=0.156...",145,104
+MIT_2017-06-30_battery-32.csv,"LFP/Graphite at 30°C. CC-CV 5.2C to 37%, 4.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.977%. CVQ=0.141...",145,104
+TJU_NCA_CY35-05_1-#3.csv,"NCA at 35°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.948%. CVQ=0.601, CVt=1236.792s, Isl...",126,95
+MIT_2018-04-12_battery-44.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.973%. CVQ=0.164...",145,104
+MIT_2018-04-12_battery-45.csv,"LFP/Graphite at 30°C. CC-CV 5C to 67%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.975%. CVQ=0.164, CV...",141,100
+XJTU_2C_battery-3.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.930%. CVQ=0.363, CVt=326.640s, Islope=-9...",120,89
+XJTU_R2.5_battery-8.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 2.5V Cyc=1, SOH=0.963%. CVQ=0.347, CVt=311.880s, Islo...",125,94
+TJU_NCA_CY45-05_1-#7.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.953%. CVQ=0.609, CVt=1252.074s, Isl...",126,95
+TJU_NCA_CY45-05_1-#18.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.932%. CVQ=0.633, CVt=1299.838s, Isl...",126,95
+XJTU_3C_battery-11.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.917%. CVQ=0.448, CVt=268.440s, Islope=-1...",120,89
+MIT_2018-04-12_battery-12.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 19%, 4.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.161...",145,104
+MIT_2018-04-12_battery-1.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.971%. CVQ=0.159...",145,104
+TJU_NCA_CY25-05_1-#12.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.926%. CVQ=0.668, CVt=1375.264s, Isl...",126,95
+MIT_2018-04-12_battery-30.csv,"LFP/Graphite at 30°C. CC-CV 5.9C to 60%, 3.1C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.970%. CVQ=0.156...",145,104
+MIT_2017-05-12_battery-16.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 70%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.968%. CVQ=0.142, ...",143,102
+TJU_NCM_CY45-05_1-#4.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.940%. CVQ=0.614, CVt=1263.686s, Islo...",125,94
+XJTU_Sim_satellite_battery-2.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.667C Cyc=1, SOH=0.985%. CVQ=0.354, CVt=318.300s, Islope=-9.58e...",116,87
+XJTU_R3_battery-7.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 3.0V Cyc=1, SOH=0.960%. CVQ=0.353, CVt=317.520s, Islo...",125,94
+TJU_NCA_CY45-05_1-#13.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.956%. CVQ=0.595, CVt=1221.906s, Isl...",126,95
+TJU_NCA_CY45-05_1-#17.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.919%. CVQ=0.619, CVt=1271.456s, Isl...",126,95
+TJU_NCA_CY45-05_1-#10.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.953%. CVQ=0.610, CVt=1253.630s, Isl...",126,95
+MIT_2017-06-30_battery-34.csv,"LFP/Graphite at 30°C. CC-CV 5.2C to 58%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.982%. CVQ=0.148, ...",143,102
+TJU_NCM_CY35-05_1-#4.csv,"NCM at 35°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.925%. CVQ=0.600, CVt=1234.606s, Islo...",125,94
+TJU_NCA_CY45-05_1-#23.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.935%. CVQ=0.610, CVt=1256.074s, Isl...",126,95
+MIT_2017-05-12_battery-5.csv,"LFP/Graphite at 30°C. CC-CV 12.4C to 80%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.983%. CVQ=0.159,...",144,103
+MIT_2017-06-30_battery-43.csv,"LFP/Graphite at 30°C. CC-CV 30.6C to 20%, 4.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.982%. CVQ=0.14...",146,105
+MIT_2018-04-12_battery-14.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 19%, 4.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.970%. CVQ=0.155...",145,104
+MIT_2017-06-30_battery-46.csv,"LFP/Graphite at 30°C. CC-CV 30.6C to 4%, 4.75C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.974%. CVQ=0.13...",146,105
+TJU_NCA_CY45-05_1-#20.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.929%. CVQ=0.611, CVt=1257.814s, Isl...",126,95
+MIT_2017-05-12_battery-3.csv,"LFP/Graphite at 30°C. CC-CV 3.6C to 80%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.984%. CVQ=0.160...",145,104
+XJTU_2C_battery-8.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.958%. CVQ=0.355, CVt=318.960s, Islope=-9...",120,89
+MIT_2018-04-12_battery-2.csv,"LFP/Graphite at 30°C. CC-CV 5C to 67%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.970%. CVQ=0.159, CV...",141,100
+TJU_NCM_CY25-05_1-#14.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.909%. CVQ=0.609, CVt=1251.972s, Islo...",125,94
+TJU_NCM_CY45-05_1-#2.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.947%. CVQ=0.622, CVt=1281.560s, Islo...",125,94
+MIT_2017-05-12_battery-38.csv,"LFP/Graphite at 30°C. CC-CV 12.7C to 30%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.978%. CVQ=0.15...",146,105
+XJTU_Sim_satellite_battery-4.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.667C Cyc=1, SOH=0.980%. CVQ=0.367, CVt=330.960s, Islope=-8.82e...",116,87
+MIT_2017-06-30_battery-18.csv,"LFP/Graphite at 30°C. CC-CV 4.4C to 47%, 5.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.131...",145,104
+XJTU_3C_battery-7.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.939%. CVQ=0.382, CVt=229.320s, Islope=-1...",120,89
+MIT_2017-05-12_battery-40.csv,"LFP/Graphite at 30°C. CC-CV 12.7C to 40%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.985%. CVQ=0.16...",146,105
+TJU_NCM_CY45-05_1-#27.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.926%. CVQ=0.604, CVt=1241.238s, Islo...",125,94
+MIT_2017-05-12_battery-41.csv,"LFP/Graphite at 30°C. CC-CV 12.8C to 15%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.988%. CVQ=0.16...",146,105
+XJTU_3C_battery-3.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.939%. CVQ=0.385, CVt=230.820s, Islope=-1...",120,89
+TJU_NCA_CY45-05_1-#12.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.956%. CVQ=0.612, CVt=1257.596s, Isl...",126,95
+MIT_2017-05-12_battery-23.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 40%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.984%. CVQ=0.160,...",144,103
+TJU_NCM_CY25-05_1-#7.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.921%. CVQ=0.610, CVt=1254.160s, Islo...",125,94
+MIT_2017-06-30_battery-36.csv,"LFP/Graphite at 30°C. CC-CV 5.2C to 71%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.136, ...",143,102
+MIT_2017-06-30_battery-5.csv,"LFP/Graphite at 30°C. CC-CV 30.4C to 80%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.976%. CVQ=0.136,...",144,103
+TJU_NCM_CY25-05_1-#9.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.903%. CVQ=0.585, CVt=1204.758s, Islo...",125,94
+XJTU_R3_battery-6.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 3.0V Cyc=1, SOH=0.949%. CVQ=0.351, CVt=316.080s, Islo...",125,94
+MIT_2017-06-30_battery-20.csv,"LFP/Graphite at 30°C. CC-CV 4.4C to 8%, 4.85C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.953%. CVQ=0.112...",145,104
+MIT_2018-04-12_battery-41.csv,"LFP/Graphite at 30°C. CC-CV 5.3C to 54%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.967%. CVQ=0.154, ...",143,102
+MIT_2018-04-12_battery-43.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 36%, 4.3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.973%. CVQ=0.164...",145,104
+TJU_NCA_CY45-05_1-#25.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.930%. CVQ=0.612, CVt=1259.570s, Isl...",126,95
+TJU_NCA_CY25-025_1-#4.csv,"NCA at 25°C. CC-CV 0.25C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.909%. CVQ=0.718, CVt=2940.000s, Is...",127,96
+TJU_NCA_CY35-05_1-#2.csv,"NCA at 35°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.942%. CVQ=0.602, CVt=1237.056s, Isl...",126,95
+TJU_NCM_CY45-05_1-#17.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.925%. CVQ=0.596, CVt=1224.956s, Islo...",125,94
+XJTU_R2.5_battery-2.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 2.5V Cyc=1, SOH=0.952%. CVQ=0.346, CVt=311.580s, Islo...",125,94
+MIT_2017-06-30_battery-28.csv,"LFP/Graphite at 30°C. CC-CV 30.4C to 31%, 5.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.970%. CVQ=0.13...",146,105
+MIT_2018-04-12_battery-25.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.952%. CVQ=0.141...",145,104
+MIT_2017-05-12_battery-12.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 50%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.960%. CVQ=0.133, ...",143,102
+MIT_2017-05-12_battery-6.csv,"LFP/Graphite at 30°C. CC-CV 4.4C to 80%, 4.4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.981%. CVQ=0.154...",145,104
+MIT_2017-06-30_battery-40.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 58%, 3.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.981%. CVQ=0.148...",145,104
+XJTU_R3_battery-8.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 3.0V Cyc=1, SOH=0.951%. CVQ=0.355, CVt=319.140s, Islo...",125,94
+TJU_NCA_CY25-1_1-#5.csv,"NCA at 25°C. CC-CV 1.0C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.887%. CVQ=0.823, CVt=846.522s, Islo...",125,94
+MIT_2017-05-12_battery-46.csv,"LFP/Graphite at 30°C. CC-CV 12.8C to 35%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.987%. CVQ=0.16...",146,105
+MIT_2017-05-12_battery-8.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.997%. CVQ=0.170...",145,104
+XJTU_R3_battery-1.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 3.0V Cyc=1, SOH=0.950%. CVQ=0.344, CVt=309.780s, Islo...",125,94
+XJTU_3C_battery-4.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.932%. CVQ=0.389, CVt=233.220s, Islope=-1...",120,89
+MIT_2017-06-30_battery-38.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 38%, 4.25C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.978%. CVQ=0.14...",146,105
+TJU_NCA_CY25-025_1-#5.csv,"NCA at 25°C. CC-CV 0.25C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.907%. CVQ=0.700, CVt=2880.000s, Is...",127,96
+XJTU_RW_battery-3.csv,"NCM at 30°C. 0.5C CC-CV to 4.2V, then 3C CC-CV to 4.2V Disch random current-time discharge patterns ...",173,103
+MIT_2017-06-30_battery-33.csv,"LFP/Graphite at 30°C. CC-CV 5.2C to 50%, 4.25C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.977%. CVQ=0.14...",146,105
+TJU_NCM_CY45-05_1-#12.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.947%. CVQ=0.613, CVt=1260.514s, Islo...",125,94
+MIT_2017-05-12_battery-43.csv,"LFP/Graphite at 30°C. CC-CV 12.8C to 25%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.984%. CVQ=0.16...",146,105
+TJU_NCM_CY25-05_1-#13.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.907%. CVQ=0.601, CVt=1235.480s, Islo...",125,94
+TJU_NCM_CY45-05_1-#21.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.927%. CVQ=0.613, CVt=1262.100s, Islo...",125,94
+XJTU_3C_battery-15.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.915%. CVQ=0.440, CVt=264.480s, Islope=-1...",120,89
+MIT_2017-05-12_battery-14.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 60%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.985%. CVQ=0.162, ...",143,102
+MIT_2017-06-30_battery-3.csv,"LFP/Graphite at 30°C. CC-CV 3.6C to 80%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.978%. CVQ=0.141...",145,104
+TJU_NCA_CY45-05_1-#2.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.957%. CVQ=0.610, CVt=1255.836s, Isl...",126,95
+TJU_NCA_CY25-05_1-#4.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.926%. CVQ=0.654, CVt=1346.078s, Isl...",126,95
+MIT_2017-05-12_battery-31.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 40%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.983%. CVQ=0.15...",146,105
+MIT_2017-05-12_battery-2.csv,"LFP/Graphite at 30°C. CC-CV 3.6C to 80%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.981%. CVQ=0.157...",145,104
+TJU_NCM_CY35-05_1-#2.csv,"NCM at 35°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.925%. CVQ=0.570, CVt=1172.126s, Islo...",125,94
+TJU_NCA_CY25-025_1-#7.csv,"NCA at 25°C. CC-CV 0.25C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.924%. CVQ=0.725, CVt=2978.542s, Is...",127,96
+MIT_2017-05-12_battery-28.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 60%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.983%. CVQ=0.159,...",144,103
+TJU_NCM_CY45-05_1-#8.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.943%. CVQ=0.600, CVt=1236.186s, Islo...",125,94
+XJTU_2C_battery-6.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.958%. CVQ=0.344, CVt=309.240s, Islope=-1...",120,89
+XJTU_RW_battery-4.csv,"NCM at 30°C. 0.5C CC-CV to 4.2V, then 3C CC-CV to 4.2V Disch random current-time discharge patterns ...",173,103
+XJTU_RW_battery-2.csv,"NCM at 30°C. 0.5C CC-CV to 4.2V, then 3C CC-CV to 4.2V Disch random current-time discharge patterns ...",173,103
+TJU_NCM_CY25-05_1-#22.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.921%. CVQ=0.584, CVt=1201.290s, Islo...",125,94
+TJU_NCM_CY45-05_1-#5.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.944%. CVQ=0.614, CVt=1264.104s, Islo...",125,94
+MIT_2017-05-12_battery-42.csv,"LFP/Graphite at 30°C. CC-CV 12.8C to 15%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.984%. CVQ=0.16...",146,105
+MIT_2018-04-12_battery-46.csv,"LFP/Graphite at 30°C. CC-CV 5.3C to 54%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.974%. CVQ=0.163, ...",143,102
+TJU_NCA_CY25-025_1-#6.csv,"NCA at 25°C. CC-CV 0.25C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.923%. CVQ=0.713, CVt=2930.772s, Is...",127,96
+TJU_NCM_CY45-05_1-#20.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.921%. CVQ=0.616, CVt=1268.600s, Islo...",125,94
+TJU_NCA_CY45-05_1-#9.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.957%. CVQ=0.606, CVt=1247.540s, Isl...",126,95
+MIT_2018-04-12_battery-18.csv,"LFP/Graphite at 30°C. CC-CV 5C to 67%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.162, CV...",141,100
+MIT_2017-06-30_battery-48.csv,"LFP/Graphite at 30°C. CC-CV 30.6C to 60%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.949%. CVQ=0.113,...",144,103
+TJU_NCA_CY25-1_1-#7.csv,"NCA at 25°C. CC-CV 1.0C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.905%. CVQ=0.804, CVt=826.294s, Islo...",125,94
+MIT_2017-05-12_battery-39.csv,"LFP/Graphite at 30°C. CC-CV 12.7C to 40%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.977%. CVQ=0.15...",146,105
+MIT_2017-05-12_battery-27.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 60%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.991%. CVQ=0.166,...",144,103
+XJTU_2C_battery-7.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.969%. CVQ=0.350, CVt=314.580s, Islope=-9...",120,89
+TJU_NCM_CY35-05_1-#1.csv,"NCM at 35°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.916%. CVQ=0.600, CVt=1234.164s, Islo...",125,94
+XJTU_RW_battery-7.csv,"NCM at 30°C. 0.5C CC-CV to 4.2V, then 3C CC-CV to 4.2V Disch random current-time discharge patterns ...",173,103
+TJU_NCM_CY25-05_1-#10.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.910%. CVQ=0.586, CVt=1207.026s, Islo...",125,94
+XJTU_Sim_satellite_battery-1.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.667C Cyc=1, SOH=0.985%. CVQ=0.363, CVt=325.860s, Islope=-7.97e...",116,87
+MIT_2018-04-12_battery-4.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 19%, 4.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.967%. CVQ=0.157...",145,104
+MIT_2017-06-30_battery-6.csv,"LFP/Graphite at 30°C. CC-CV 30.4C to 80%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.133,...",144,103
+TJU_NCM_CY45-05_1-#18.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.917%. CVQ=0.610, CVt=1254.794s, Islo...",125,94
+MIT_2018-04-12_battery-40.csv,"LFP/Graphite at 30°C. CC-CV 5C to 67%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.956%. CVQ=0.147, CV...",141,100
+TJU_NCA_CY25-05_1-#9.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.935%. CVQ=0.655, CVt=1346.634s, Isl...",126,95
+MIT_2017-05-12_battery-10.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 80%, 5.4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.987%. CVQ=0.162...",145,104
+TJU_NCM_CY25-05_1-#17.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.905%. CVQ=0.595, CVt=1223.494s, Islo...",125,94
+MIT_2017-05-12_battery-26.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 50%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.978%. CVQ=0.156,...",144,103
+TJU_NCM_CY25-05_1-#23.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.924%. CVQ=0.605, CVt=1245.024s, Islo...",125,94
+MIT_2018-04-12_battery-42.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 19%, 4.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.958%. CVQ=0.148...",145,104
+XJTU_Sim_satellite_battery-3.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.667C Cyc=1, SOH=0.984%. CVQ=0.369, CVt=331.860s, Islope=-8.16e...",116,87
+MIT_2017-05-12_battery-37.csv,"LFP/Graphite at 30°C. CC-CV 12.7C to 30%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.981%. CVQ=0.15...",146,105
+TJU_NCM_CY45-05_1-#25.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.928%. CVQ=0.595, CVt=1224.696s, Islo...",125,94
+MIT_2018-04-12_battery-6.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.958%. CVQ=0.145...",145,104
+MIT_2017-05-12_battery-24.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 40%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.984%. CVQ=0.162,...",144,103
+TJU_NCA_CY25-05_1-#10.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.933%. CVQ=0.655, CVt=1348.154s, Isl...",126,95
+TJU_NCM_CY25-05_1-#2.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.926%. CVQ=0.605, CVt=1247.400s, Islo...",125,94
+MIT_2017-06-30_battery-39.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 47%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.973%. CVQ=0.139, ...",143,102
+MIT_2017-05-12_battery-7.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.983%. CVQ=0.156...",145,104
+MIT_2017-06-30_battery-4.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.971%. CVQ=0.131...",145,104
+TJU_NCA_CY25-05_1-#18.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.930%. CVQ=0.659, CVt=1357.014s, Isl...",126,95
+MIT_2017-05-12_battery-18.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 40%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.977%. CVQ=0.153...",145,104
+TJU_NCM_CY25-05_1-#15.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.908%. CVQ=0.605, CVt=1242.766s, Islo...",125,94
+TJU_NCA_CY25-025_1-#1.csv,"NCA at 25°C. CC-CV 0.25C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.928%. CVQ=0.700, CVt=2880.000s, Is...",127,96
+MIT_2018-04-12_battery-15.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 36%, 4.3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.977%. CVQ=0.162...",145,104
+MIT_2017-06-30_battery-13.csv,"LFP/Graphite at 30°C. CC-CV 3.6C to 22%, 5.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.975%. CVQ=0.137...",145,104
+TJU_NCM_CY25-05_1-#6.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.922%. CVQ=0.587, CVt=1204.784s, Islo...",125,94
+MIT_2017-06-30_battery-31.csv,"LFP/Graphite at 30°C. CC-CV 5.2C to 10%, 4.75C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.971%. CVQ=0.13...",146,105
+MIT_2017-05-12_battery-1.csv,"LFP/Graphite at 30°C. CC-CV 3.6C to 80%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.977%. CVQ=0.151...",145,104
+MIT_2017-05-12_battery-22.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 60%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.985%. CVQ=0.153...",145,104
+XJTU_R2.5_battery-3.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 2.5V Cyc=1, SOH=0.962%. CVQ=0.348, CVt=313.260s, Islo...",125,94
+TJU_NCA_CY25-1_1-#9.csv,"NCA at 25°C. CC-CV 1.0C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.896%. CVQ=0.806, CVt=828.878s, Islo...",125,94
+XJTU_R2.5_battery-1.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 2.5V Cyc=1, SOH=0.927%. CVQ=0.347, CVt=312.240s, Islo...",125,94
+TJU_NCM_CY25-05_1-#4.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.917%. CVQ=0.602, CVt=1240.076s, Islo...",125,94
+MIT_2017-06-30_battery-7.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.973%. CVQ=0.136...",145,104
+MIT_2017-06-30_battery-23.csv,"LFP/Graphite at 30°C. CC-CV 4.65C to 69%, 6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.983%. CVQ=0.144,...",144,103
+TJU_NCA_CY45-05_1-#16.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.923%. CVQ=0.633, CVt=1301.186s, Isl...",126,95
+MIT_2017-06-30_battery-35.csv,"LFP/Graphite at 30°C. CC-CV 5.2C to 66%, 3.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.137...",145,104
+TJU_NCM_CY45-05_1-#15.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.922%. CVQ=0.612, CVt=1257.646s, Islo...",125,94
+XJTU_2C_battery-4.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.947%. CVQ=0.352, CVt=317.160s, Islope=-9...",120,89
+MIT_2018-04-12_battery-19.csv,"LFP/Graphite at 30°C. CC-CV 5.3C to 54%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.973%. CVQ=0.165, ...",143,102
+XJTU_3C_battery-5.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.955%. CVQ=0.388, CVt=232.560s, Islope=-1...",120,89
+MIT_2017-06-30_battery-25.csv,"LFP/Graphite at 30°C. CC-CV 4.9C to 61%, 4.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.133...",145,104
+TJU_NCM_CY45-05_1-#14.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.944%. CVQ=0.616, CVt=1267.580s, Islo...",125,94
+TJU_NCA_CY45-05_1-#19.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.926%. CVQ=0.615, CVt=1266.724s, Isl...",126,95
+MIT_2017-05-12_battery-19.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 50%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.147...",145,104
+TJU_NCM_CY45-05_1-#22.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.921%. CVQ=0.613, CVt=1260.832s, Islo...",125,94
+TJU_NCA_CY45-05_1-#15.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.924%. CVQ=0.616, CVt=1265.944s, Isl...",126,95
+MIT_2017-06-30_battery-2.csv,"LFP/Graphite at 30°C. CC-CV 3.6C to 80%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.975%. CVQ=0.137...",145,104
+MIT_2017-06-30_battery-37.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 25%, 4.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.981%. CVQ=0.148...",145,104
+MIT_2018-04-12_battery-36.csv,"LFP/Graphite at 30°C. CC-CV 3.7C to 31%, 5.9C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.968%. CVQ=0.160...",145,104
+TJU_NCM_CY45-05_1-#3.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.944%. CVQ=0.612, CVt=1260.050s, Islo...",125,94
+TJU_NCA_CY45-05_1-#4.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.949%. CVQ=0.608, CVt=1247.790s, Isl...",126,95
+MIT_2017-06-30_battery-1.csv,"LFP/Graphite at 30°C. CC-CV 3.6C to 80%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.974%. CVQ=0.137...",145,104
+TJU_NCA_CY25-05_1-#8.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.939%. CVQ=0.663, CVt=1364.246s, Isl...",126,95
+MIT_2017-05-12_battery-4.csv,"LFP/Graphite at 30°C. CC-CV 12.4C to 80%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.984%. CVQ=0.156,...",144,103
+MIT_2017-05-12_battery-11.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 50%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.979%. CVQ=0.154, ...",143,102
+MIT_2018-04-12_battery-10.csv,"LFP/Graphite at 30°C. CC-CV 5C to 67%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.974%. CVQ=0.162, CV...",141,100
+TJU_NCM_CY25-05_1-#16.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.910%. CVQ=0.606, CVt=1246.390s, Islo...",125,94
+TJU_NCM_CY25-05_1-#21.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.922%. CVQ=0.607, CVt=1250.062s, Islo...",125,94
+XJTU_3C_battery-14.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.919%. CVQ=0.436, CVt=261.780s, Islope=-1...",120,89
+XJTU_Sim_satellite_battery-6.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.667C Cyc=1, SOH=1.004%. CVQ=0.359, CVt=323.220s, Islope=-7.76e...",116,87
+MIT_2018-04-12_battery-33.csv,"LFP/Graphite at 30°C. CC-CV 5.3C to 54%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.977%. CVQ=0.173, ...",143,102
+TJU_NCM_CY25-05_1-#18.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.923%. CVQ=0.585, CVt=1202.034s, Islo...",125,94
+MIT_2017-06-30_battery-12.csv,"LFP/Graphite at 30°C. CC-CV 30.2C to 7%, 5.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.975%. CVQ=0.139...",145,104
+TJU_NCA_CY25-1_1-#2.csv,"NCA at 25°C. CC-CV 1.0C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.904%. CVQ=0.824, CVt=847.110s, Islo...",125,94
+TJU_NCM_CY45-05_1-#26.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.922%. CVQ=0.595, CVt=1226.054s, Islo...",125,94
+MIT_2017-05-12_battery-15.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 70%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.976%. CVQ=0.153, ...",143,102
+TJU_NCA_CY45-05_1-#8.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.937%. CVQ=0.638, CVt=1311.378s, Isl...",126,95
+TJU_NCA_CY25-1_1-#8.csv,"NCA at 25°C. CC-CV 1.0C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.893%. CVQ=0.810, CVt=832.898s, Islo...",125,94
+TJU_NCA_CY25-1_1-#6.csv,"NCA at 25°C. CC-CV 1.0C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.881%. CVQ=0.827, CVt=851.322s, Islo...",125,94
+TJU_NCA_CY45-05_1-#22.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.924%. CVQ=0.618, CVt=1270.584s, Isl...",126,95
+TJU_NCA_CY25-1_1-#1.csv,"NCA at 25°C. CC-CV 1.0C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.898%. CVQ=0.817, CVt=840.572s, Islo...",125,94
+MIT_2018-04-12_battery-24.csv,"LFP/Graphite at 30°C. CC-CV 5.9C to 15%, 4.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.971%. CVQ=0.162...",145,104
+TJU_NCM_CY45-05_1-#11.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.943%. CVQ=0.626, CVt=1287.048s, Islo...",125,94
+MIT_2018-04-12_battery-34.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 19%, 4.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.964%. CVQ=0.154...",145,104
+TJU_NCM_CY45-05_1-#1.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.944%. CVQ=0.615, CVt=1267.150s, Islo...",125,94
+XJTU_3C_battery-12.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.938%. CVQ=0.417, CVt=250.200s, Islope=-5...",120,89
+XJTU_R2.5_battery-5.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 2.5V Cyc=1, SOH=0.972%. CVQ=0.345, CVt=310.560s, Islo...",125,94
+TJU_NCA_CY45-05_1-#14.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.953%. CVQ=0.616, CVt=1265.660s, Isl...",126,95
+TJU_NCM_CY45-05_1-#19.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.922%. CVQ=0.604, CVt=1245.252s, Islo...",125,94
+TJU_NCA_CY25-05_1-#1.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.926%. CVQ=0.672, CVt=1383.418s, Isl...",126,95
+MIT_2017-06-30_battery-42.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 65%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.973%. CVQ=0.141, ...",143,102
+TJU_NCA_CY25-05_1-#13.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.929%. CVQ=0.640, CVt=1319.096s, Isl...",126,95
+MIT_2017-05-12_battery-29.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 30%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.982%. CVQ=0.15...",146,105
+TJU_NCM_CY25-05_1-#19.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.923%. CVQ=0.600, CVt=1233.628s, Islo...",125,94
+MIT_2017-06-30_battery-22.csv,"LFP/Graphite at 30°C. CC-CV 4.65C to 44%, 5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.980%. CVQ=0.144,...",144,103
+XJTU_3C_battery-2.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.963%. CVQ=0.395, CVt=236.640s, Islope=-9...",120,89
+MIT_2017-06-30_battery-29.csv,"LFP/Graphite at 30°C. CC-CV 30.4C to 40%, 6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.976%. CVQ=0.139,...",144,103
+XJTU_Sim_satellite_battery-5.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.667C Cyc=1, SOH=0.982%. CVQ=0.352, CVt=316.500s, Islope=-9.70e...",116,87
+XJTU_2C_battery-5.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.951%. CVQ=0.351, CVt=316.020s, Islope=-8...",120,89
+MIT_2017-05-12_battery-45.csv,"LFP/Graphite at 30°C. CC-CV 12.8C to 35%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.987%. CVQ=0.16...",146,105
+TJU_NCM_CY45-05_1-#24.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.922%. CVQ=0.609, CVt=1254.530s, Islo...",125,94
+TJU_NCA_CY25-1_1-#3.csv,"NCA at 25°C. CC-CV 1.0C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.884%. CVQ=0.812, CVt=834.664s, Islo...",125,94
+TJU_NCA_CY25-05_1-#11.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.924%. CVQ=0.667, CVt=1375.432s, Isl...",126,95
+TJU_NCA_CY45-05_1-#28.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.932%. CVQ=0.618, CVt=1269.502s, Isl...",126,95
+TJU_NCM_CY45-05_1-#28.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.922%. CVQ=0.612, CVt=1256.368s, Islo...",125,94
+XJTU_R3_battery-2.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 3.0V Cyc=1, SOH=0.952%. CVQ=0.351, CVt=316.020s, Islo...",125,94
+MIT_2017-05-12_battery-20.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 50%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.988%. CVQ=0.163...",145,104
+TJU_NCM_CY45-05_1-#10.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.939%. CVQ=0.625, CVt=1285.648s, Islo...",125,94
+MIT_2017-06-30_battery-47.csv,"LFP/Graphite at 30°C. CC-CV 30.6C to 52%, 3.5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.977%. CVQ=0.14...",146,105
+MIT_2017-06-30_battery-44.csv,"LFP/Graphite at 30°C. CC-CV 30.6C to 31%, 4.25C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.978%. CVQ=0.1...",147,106
+TJU_NCM_CY25-05_1-#12.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.900%. CVQ=0.608, CVt=1249.628s, Islo...",125,94
+XJTU_RW_battery-1.csv,"NCM at 30°C. 0.5C CC-CV to 4.2V, then 3C CC-CV to 4.2V Disch random current-time discharge patterns ...",173,103
+TJU_NCA_CY45-05_1-#24.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.928%. CVQ=0.614, CVt=1263.492s, Isl...",126,95
+MIT_2017-06-30_battery-15.csv,"LFP/Graphite at 30°C. CC-CV 3.6C to 30%, 6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.981%. CVQ=0.142, ...",143,102
+TJU_NCA_CY45-05_1-#1.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.957%. CVQ=0.609, CVt=1253.240s, Isl...",126,95
+TJU_NCA_CY45-05_1-#21.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.925%. CVQ=0.629, CVt=1295.272s, Isl...",126,95
+MIT_2017-06-30_battery-27.csv,"LFP/Graphite at 30°C. CC-CV 30.4C to 13%, 5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.982%. CVQ=0.144,...",144,103
+XJTU_R3_battery-4.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 3.0V Cyc=1, SOH=0.963%. CVQ=0.344, CVt=310.200s, Islo...",125,94
+MIT_2017-06-30_battery-14.csv,"LFP/Graphite at 30°C. CC-CV 3.6C to 2%, 4.85C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.984%. CVQ=0.145...",145,104
+TJU_NCM_CY25-05_1-#11.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.914%. CVQ=0.602, CVt=1240.120s, Islo...",125,94
+XJTU_R2.5_battery-7.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 2.5V Cyc=1, SOH=0.959%. CVQ=0.353, CVt=318.240s, Islo...",125,94
+MIT_2017-05-12_battery-25.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 50%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.979%. CVQ=0.156,...",144,103
+MIT_2018-04-12_battery-11.csv,"LFP/Graphite at 30°C. CC-CV 5.3C to 54%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.968%. CVQ=0.159, ...",143,102
+MIT_2018-04-12_battery-16.csv,"LFP/Graphite at 30°C. CC-CV 3.7C to 31%, 5.9C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.972%. CVQ=0.159...",145,104
+XJTU_R2.5_battery-4.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 2.5V Cyc=1, SOH=0.956%. CVQ=0.348, CVt=313.320s, Islo...",125,94
+MIT_2017-05-12_battery-34.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 50%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.994%. CVQ=0.17...",146,105
+MIT_2017-05-12_battery-17.csv,"LFP/Graphite at 30°C. CC-CV 5.4C to 40%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.984%. CVQ=0.159...",145,104
+MIT_2018-04-12_battery-8.csv,"LFP/Graphite at 30°C. CC-CV 5.3C to 54%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.973%. CVQ=0.162, ...",143,102
+XJTU_3C_battery-13.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.917%. CVQ=0.417, CVt=250.620s, Islope=-1...",120,89
+TJU_NCA_CY25-025_1-#3.csv,"NCA at 25°C. CC-CV 0.25C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.915%. CVQ=0.715, CVt=2940.000s, Is...",127,96
+MIT_2017-05-12_battery-35.csv,"LFP/Graphite at 30°C. CC-CV 12.7C to 40%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.980%. CVQ=0.157,...",144,103
+TJU_NCM_CY25-05_1-#3.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.918%. CVQ=0.587, CVt=1208.406s, Islo...",125,94
+TJU_NCA_CY25-05_1-#5.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.924%. CVQ=0.660, CVt=1359.034s, Isl...",126,95
+XJTU_Sim_satellite_battery-8.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.667C Cyc=1, SOH=0.964%. CVQ=0.331, CVt=298.260s, Islope=-1.25e...",116,87
+XJTU_3C_battery-10.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.918%. CVQ=0.443, CVt=265.500s, Islope=-1...",120,89
+XJTU_RW_battery-5.csv,"NCM at 30°C. 0.5C CC-CV to 4.2V, then 3C CC-CV to 4.2V Disch random current-time discharge patterns ...",173,103
+XJTU_R2.5_battery-6.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 2.5V Cyc=1, SOH=0.951%. CVQ=0.350, CVt=315.180s, Islo...",125,94
+MIT_2018-04-12_battery-39.csv,"LFP/Graphite at 30°C. CC-CV 4.8C to 80%, 4.8C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.975%. CVQ=0.168...",145,104
+XJTU_2C_battery-1.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.950%. CVQ=0.350, CVt=314.940s, Islope=-9...",120,89
+TJU_NCA_CY25-025_1-#2.csv,"NCA at 25°C. CC-CV 0.25C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.934%. CVQ=0.694, CVt=2850.000s, Is...",127,96
+MIT_2018-04-12_battery-27.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 19%, 4.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.976%. CVQ=0.166...",145,104
+TJU_NCM_CY25-05_1-#5.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.903%. CVQ=0.596, CVt=1227.648s, Islo...",125,94
+MIT_2017-05-12_battery-30.csv,"LFP/Graphite at 30°C. CC-CV 12.6C to 30%, 3.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.983%. CVQ=0.16...",146,105
+MIT_2017-06-30_battery-11.csv,"LFP/Graphite at 30°C. CC-CV 30.2C to 2%, 5C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.975%. CVQ=0.138, ...",143,102
+XJTU_3C_battery-9.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.935%. CVQ=0.412, CVt=247.140s, Islope=-7...",120,89
+TJU_NCA_CY35-05_1-#1.csv,"NCA at 35°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.942%. CVQ=0.611, CVt=1254.370s, Isl...",126,95
+TJU_NCA_CY45-05_1-#6.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.957%. CVQ=0.613, CVt=1257.012s, Isl...",126,95
+TJU_NCM_CY25-05_1-#1.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.920%. CVQ=0.587, CVt=1208.792s, Islo...",125,94
+TJU_NCM_CY45-05_1-#23.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.921%. CVQ=0.624, CVt=1285.066s, Islo...",125,94
+MIT_2017-06-30_battery-26.csv,"LFP/Graphite at 30°C. CC-CV 4.9C to 69%, 4.25C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.973%. CVQ=0.13...",146,105
+XJTU_3C_battery-8.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.931%. CVQ=0.424, CVt=254.100s, Islope=-9...",120,89
+TJU_NCM_CY25-05_1-#20.csv,"NCM at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.918%. CVQ=0.601, CVt=1235.792s, Islo...",125,94
+MIT_2018-04-12_battery-26.csv,"LFP/Graphite at 30°C. CC-CV 5.3C to 54%, 4C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.968%. CVQ=0.159, ...",143,102
+TJU_NCA_CY25-05_1-#17.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.920%. CVQ=0.655, CVt=1348.078s, Isl...",126,95
+TJU_NCA_CY45-05_1-#26.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.932%. CVQ=0.627, CVt=1290.064s, Isl...",126,95
+XJTU_R3_battery-5.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.5C-5C to 3.0V Cyc=1, SOH=0.963%. CVQ=0.348, CVt=313.680s, Islo...",125,94
+TJU_NCA_CY45-05_1-#5.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.955%. CVQ=0.612, CVt=1257.290s, Isl...",126,95
+TJU_NCM_CY45-05_1-#6.csv,"NCM at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.5V. Cyc=1, SOH=0.939%. CVQ=0.617, CVt=1270.144s, Islo...",125,94
+XJTU_Sim_satellite_battery-7.csv,"NCM at 30°C. CC-CV 2C to 4.2V Disch 0.667C Cyc=1, SOH=0.964%. CVQ=0.334, CVt=300.540s, Islope=-1.26e...",116,87
+MIT_2017-06-30_battery-21.csv,"LFP/Graphite at 30°C. CC-CV 4.65C to 19%, 4.85C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.986%. CVQ=0.1...",147,106
+TJU_NCA_CY45-05_1-#11.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.953%. CVQ=0.618, CVt=1269.340s, Isl...",126,95
+TJU_NCA_CY45-05_1-#27.csv,"NCA at 45°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.925%. CVQ=0.616, CVt=1265.676s, Isl...",126,95
+TJU_NCA_CY25-05_1-#15.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.930%. CVQ=0.640, CVt=1317.700s, Isl...",126,95
+TJU_NCA_CY25-05_1-#16.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.924%. CVQ=0.669, CVt=1375.456s, Isl...",126,95
+XJTU_RW_battery-6.csv,"NCM at 30°C. 0.5C CC-CV to 4.2V, then 3C CC-CV to 4.2V Disch random current-time discharge patterns ...",173,103
+XJTU_3C_battery-1.csv,"NCM at 30°C. CC-CV 3C to 4.2V Disch 1C to 2.5V Cyc=1, SOH=0.951%. CVQ=0.390, CVt=234.360s, Islope=-1...",120,89
+TJU_NCA_CY25-05_1-#2.csv,"NCA at 25°C. CC-CV 0.5C to 4.2V. Disch 1C to 2.65V. Cyc=1, SOH=0.926%. CVQ=0.654, CVt=1346.552s, Isl...",126,95
+MIT_2017-05-12_battery-36.csv,"LFP/Graphite at 30°C. CC-CV 12.7C to 40%, 3C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.975%. CVQ=0.151,...",144,103
+MIT_2018-04-12_battery-22.csv,"LFP/Graphite at 30°C. CC-CV 5.6C to 19%, 4.6C to 80%. Disch 4C to 2.0V. Cyc=1, SOH=0.971%. CVQ=0.162...",145,104

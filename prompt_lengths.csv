@@ -1,0 +1,13 @@
+type,template_id,text,num_tokens
+Enhanced (EN),0,"Battery: NCM/Graphite battery from XJTU dataset. Current slope: 0.123 A/step, Current entropy: 2.456. Estimate SOH.",45
+Enhanced (EN),1,"For this NCM/Graphite battery from XJTU dataset, the charging shows: current_slope=0.123, current_entropy=2.456. What is the SOH?",49
+Enhanced (EN),2,"NCM/Graphite battery from XJTU dataset battery. Features: I_slope=0.123, I_entropy=2.456. Current SOH?",44
+Enhanced (CN),0,NCM/Graphite battery from XJTU dataset 电池。电流斜率: 0.123 A/步，电流熵: 2.456，恒压充电: 1.234 Ah，用时 45.600 分钟。请估计SOH。,92
+Enhanced (CN),1,电池类型：NCM/Graphite battery from XJTU dataset。充电特征：电流斜率=0.123，电流熵=2.456，CV容量=1.234Ah，CV时间=45.600分钟。SOH是多少？,87
+Enhanced (CN),2,NCM/Graphite battery from XJTU dataset，电流变化率=0.123，熵=2.456，恒压阶段=1.234Ah/45.600min。估计当前SOH。,72
+Basic (EN),0,What is the current State of Health (SOH) of this battery?,15
+Basic (EN),1,Can you estimate the SOH based on the given features?,12
+Basic (EN),2,What is the estimated SOH value?,8
+Basic (CN),0,这块电池当前的健康状态（SOH）是多少？,22
+Basic (CN),1,根据特征，你能估计SOH吗？,20
+Basic (CN),2,这块电池还剩余多少容量？,19
