@@ -1,0 +1,47 @@
+# BatteryGPT 训练配置
+
+# ============ 数据配置 ============
+train_data_folder: "/mnt/disk1/fzm/codes/AnomalyGPT/data/soh_data/train_XJTU4_S"
+test_data_folder: "/mnt/disk1/fzm/codes/AnomalyGPT/data/soh_data/test_XJTU4_S"
+seq_len: 40
+stride: 1
+use_chinese: 0.0  # 使用中文对话的概率
+
+# ============ 模型配置 ============
+clbp_ckpt_path: "/mnt/disk1/fzm/codes/AnomalyGPT/pretrained_ckpt/clbp_ckpt/battery_moreinfo_fuse_1024_2026-01-13_20-54-57/checkpoints/epoch_best.pt"
+vicuna_ckpt_path: "/mnt/disk1/fzm/codes/AnomalyGPT/pretrained_ckpt/vicuna_ckpt/Vicuna-7b"
+pandagpt_ckpt_path: ""  # 可选，PandaGPT 预训练权重
+
+# SOH 候选值配置
+soh_min: 0.700
+soh_max: 1.000
+soh_step: 0.001
+
+# LoRA 配置
+lora_r: 8
+lora_alpha: 32
+lora_dropout: 0.1
+# ============ 损失配置 ============
+use_soh_loss: false           # 是否使用 SOH 回归损失
+# soh_loss_weight: 1.0         # SOH 损失权重 (相对于文本损失)
+# ============ 训练配置 ============
+batch_size: 8
+learning_rate: 0.0001     
+num_epochs: 15
+max_tgt_len: 72
+use_amp: true              # [修改] 关闭混合精度，防止溢出
+num_workers: 4
+gradient_checkpointing: true  # 新增
+gradient_accumulation_steps: 4  # 新增：梯度累积
+
+
+# 评估配置
+description_folder: "data/full_descriptions_withmoreinfo_decimal3"  # 可选：电池描述文件夹
+slope_window: 5  # SOH 斜率计算窗口
+use_enhanced_prompt: true  # 是否使用增强提问（评估时）
+text_gen_batch_size: 8  # 文本生成批量大小
+
+
+# ============ 保存配置 ============
+output_dir: "/mnt/disk1/fzm/codes/AnomalyGPT/outputs/batterygpt"
+save_every: 5
