@@ -1,0 +1,28 @@
+{
+    "embed_dim": 512,
+
+    "timeseries_cfg": {
+        "input_dim": 12,   
+        "seq_len": 1024,    
+        "patch_size": 16,     
+        "layers": 12,
+        "width": 768,
+        "heads": 8,
+        "mlp_ratio": 4.0
+    },
+    "text_cfg": {
+        "hf_model_name": "/mnt/disk1/fzm/codes/MMLLM4Battery/clbp/src/pretrained_text/bert",
+        "hf_tokenizer_name": "/mnt/disk1/fzm/codes/MMLLM4Battery/clbp/src/pretrained_text/bert",
+        "hf_proj_type": "linear",
+        "hf_model_pretrained": true,
+        "width": 768,
+        "output_tokens": true
+    },
+    "multimodal_cfg": {
+        "context_length": 76,
+        "width": 768,
+        "heads": 8,
+        "layers": 12
+    },
+    "custom_text": true
+}
